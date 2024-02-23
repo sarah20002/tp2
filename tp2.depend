@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1708029605 source:c:\users\sarra\desktop\enicar-university\nouveau dossier\tp2\main.cpp
+	"temps.h"
+	<string.h>
+	<iostream>
+
+1708001197 source:c:\users\sarra\desktop\enicar-university\nouveau dossier\tp2\src\temps.cpp
+	"temps.h"
+	<string.h>
+	<iostream>
+
+1708029601 c:\users\sarra\desktop\enicar-university\nouveau dossier\tp2\include\temps.h
+
+1708032856 source:c:\users\sarra\desktop\enicar-university\nouveau dossier\tp2\src\abonne.cpp
+	"abonne.h"
+	<iostream>
+	<string.h>
+
+1708032151 c:\users\sarra\desktop\enicar-university\nouveau dossier\tp2\include\abonne.h
+	<iostream>
+	<string.h>
+
+1708509167 source:c:\users\sarra\desktop\enicar-university\nouveau dossier\tp2\src\pile.cpp
+	<C:\Users\sarra\Desktop\enicar-university\Nouveau dossier\tp2\include\pile.h>
+	<iostream>
+	<vector>
+
+1708508291 c:\users\sarra\desktop\enicar-university\nouveau dossier\tp2\include\pile.h
+	<iostream>
+	<vector>
+
+1708510448 source:c:\users\sarra\desktop\enicar-university\nouveau dossier\tp2\src\complexe.cpp
+	<C:\Users\sarra\Desktop\enicar-university\Nouveau dossier\tp2\include\Complexe.h>
+	<iostream>
+
+1708510124 c:\users\sarra\desktop\enicar-university\nouveau dossier\tp2\include\complexe.h
+	<iostream>
+
